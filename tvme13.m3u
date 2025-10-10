@@ -14,25 +14,6 @@ exports.handler = async (event) => {
 
 #EXTM3U url-tvg="https://mokm32.github.io/epg-astro/epg.xml" refresh="1440" max-conn="4" refresh="24" vod_library="https://mokm32.github.io/new/,https://mokm32.github.io/vod-top-20/,https://mokm32.github.io/vodupdatenew/,https://mokm32.github.io/vod-aseanmovies/"
 
-#EXTINF:-1 group-title="ORDER ID👉 SHOPEE NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="NeckleNJ" ch-number="100" tvg-name="NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", ID ORIGINAL KEDAI SHOPEE NeckleNJ
-https://archive.org/download/2025-01-16-03-39-44/2025-01-16%2003-39-44.mp4
-
-#EXTINF:-1 group-title="ORDER ID👉Website NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="Website NeckleNJ" ch-number="100" tvg-name="Website NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", Order ID👉 Website NeckleNJ
-https://archive.org/download/2025-05-20-23-11-14/2025-05-20%2023-11-14.mp4
-
-#EXTINF:-1 group-title="ORDER ID👉Website NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="cara Order dekat Website NeckleNJ" ch-number="100" tvg-name="cara Order dekat Website NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", cara Order dekat👉Website NeckleNJ
-https://archive.org/download/2025-05-20-23-18-13/2025-05-20%2023-18-13.mp4
-
-#EXTINF:-1 group-title="JAM UPDATE PLAYLIST" group-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg" tvg-id="JAM UPDATE PLAYLIST" ch-number="100" tvg-name="JAM UPDATE PLAYLIST" tvg-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg", Tekan Video InI
-#https://youtu.be/D2rRj74cG00
-https://archive.org/download/red-and-black-modern-opening-profile-youtube-intro-video/Red%20and%20Black%20Modern%20Opening%20Profile%20Youtube%20Intro%20Video.mp4
-
-#EXTINF:-1 group-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg" tvg-id=''Tutorial1" ch-number="000" tvg-name="Reload provider" group-title="OTT-Tutorial" tvg-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png",Cara Reload Provider
-https://www.dropbox.com/scl/fi/fxssmk0mj9rxgrc2qjvxx/cara-reload-provider.mp4?rlkey=9ovusjgvi6rs86yrj1010cbzf&st=6iw17oqm&dl=1
-
-#EXTINF:-1 group-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg" tvg-id=''Tutorial2" ch-number="001" tvg-name="Media Library" group-title="OTT-Tutorial" tvg-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png",Cara Munculkan Media Library
-https://www.dropbox.com/scl/fi/qjw4inun5bv0ut8fh3wb6/cara-atasi-media-library-hilang.mp4?rlkey=4mzfk9gc7fcte26znqhz6fves&st=i5en3010&dl=1
-
 
 
 ================================================
